@@ -5,6 +5,8 @@ Whenever a scan is made vision will read the page from the scan/photograph, then
 
 The words that will be filtered are: the 5000 most common used words, 4000 common names, numbers, and close to 20.000 word forms derived from the 5000 most common words. 
 
+Available on Apple Appstore.
+
 ### Build With
 * Swift
 * Xcode 
@@ -17,7 +19,7 @@ The words that will be filtered are: the 5000 most common used words, 4000 commo
 * Observers
 
 ## Usage
-<img scr="https://user-images.githubusercontent.com/73681740/110424610-2f133f00-80f7-11eb-8ade-448028b07b0f.jpg" width="200" height="400" />  &nbsp;&nbsp;&nbsp;&nbsp; <img scr="https://user-images.githubusercontent.com/73681740/110424663-3e928800-80f7-11eb-9505-04b0f9d9feef.jpg" width="200" height="400" /> &nbsp;&nbsp;&nbsp;&nbsp; <img scr="https://user-images.githubusercontent.com/73681740/110424697-4eaa6780-80f7-11eb-9f86-be4658835e38.jpg" width="200" height="400" /> &nbsp;&nbsp;&nbsp;&nbsp; <img scr="https://user-images.githubusercontent.com/73681740/110424720-58cc6600-80f7-11eb-8d88-703b1a82148e.jpg" width="200" height="400" />
+<img width="200" height="400" src="https://user-images.githubusercontent.com/73681740/110424610-2f133f00-80f7-11eb-8ade-448028b07b0f.jpg"  />  &nbsp;&nbsp;&nbsp;&nbsp; <img width="200" height="400" src="https://user-images.githubusercontent.com/73681740/110424663-3e928800-80f7-11eb-9505-04b0f9d9feef.jpg"  /> &nbsp;&nbsp;&nbsp;&nbsp; <img width="200" height="400" src="https://user-images.githubusercontent.com/73681740/110424697-4eaa6780-80f7-11eb-9f86-be4658835e38.jpg"  /> &nbsp;&nbsp;&nbsp;&nbsp; <img width="200" height="400" src="https://user-images.githubusercontent.com/73681740/110424720-58cc6600-80f7-11eb-8d88-703b1a82148e.jpg"  />
 
 
 
